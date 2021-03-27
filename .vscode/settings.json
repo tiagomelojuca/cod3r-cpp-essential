@@ -1,0 +1,8 @@
+{
+    "editor.fontSize": 20,
+    "files.associations": {
+        "*.njk": "html",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
